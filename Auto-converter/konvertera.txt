@@ -1,0 +1,15 @@
+P|Wre Ennr|Hansson
+T|0702714898|
+A|Lingonstigen|Karlshamn|374 40
+F|Ebbe|2013
+T|Hemligt nummer|inget
+F|Alfred|2017
+A|Alfredsadress|Karlshamn|27449
+T|0000000000|Alfredshemma
+P|Oskar|Olsson
+F|Anna|9999
+A|Hemma|På|Gatan
+F|Pelle|2222
+F|Nisse|1111
+P|Last|Person
+T|Secret|Number
